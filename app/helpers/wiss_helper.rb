@@ -1,0 +1,2 @@
+module WissHelper
+end
